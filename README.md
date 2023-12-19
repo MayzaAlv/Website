@@ -1,8 +1,6 @@
-# React + Vite
+# Website
+Project made in Acelera Pleno using React.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Images:
+![image](https://github.com/MayzaAlv/Website/assets/89316731/fca14ded-b792-4448-ba65-7d0b6e8a93af)
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
