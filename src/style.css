@@ -9,11 +9,8 @@ ul {
 }
 
 body {
-    background-image: url(./assets/bg.jpg);
-    background-position: top center;
-    background-size: 100% auto;
-    background-repeat: no-repeat;
-    background-color: #121214;
+    background: rgb(37,1,57);
+    background: linear-gradient(90deg, rgba(37,1,57,1) 0%, rgba(69,5,139,1) 35%, rgba(86,2,170,1) 100%);
 }
 
 body * {
